@@ -1,0 +1,2 @@
+build/aarch64le-debug/src/led_rgb.o: src/led_rgb.c src/rpi_gpio.h \
+ src/../src/sys/rpi_gpio.h src/../src/sys/../aarch64/rpi_gpio.h
